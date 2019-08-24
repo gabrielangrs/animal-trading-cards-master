@@ -1,0 +1,46 @@
+/* Main Card */
+.card_container {
+	width: 315px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 0 0 15px 15px;
+	/* Padding: top right bottom left */
+	box-shadow: 8px 8px #E6E6E6;
+	background-color: #E6F0FF;
+}
+
+/* Card Description */
+.description_container {
+	width: 278px;
+	border: 1px solid black;
+	padding: 0 10px 0 10px;
+	font-size: 10pt;
+}
+
+/* African Lion Image */
+.img_pad {
+	padding: 0 0 10px 0;
+}
+
+/* First Sentence of Description */
+.interesting_fact {
+	font-style: italic;
+}
+
+/* Name of Animal */
+h3 {
+	width: 300px;
+	padding: 0 0 5px 0;
+}
+
+/* Animal Statistics */
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+/* Fact Labels */
+span {
+	font-weight: bold;
+}
